@@ -6,6 +6,6 @@ module.exports = function(req, res, next) {
       cart: [], 
       total:0
     } 
-     next()
   }
+  next()
 }
